@@ -1,7 +1,7 @@
 # reflex
 
-## A simple reflex game with vue, "For Educational Purposes"
-## Just do npm install and npm run watch
+# A simple reflex game with vue, "For Educational Purposes"
+# Just do npm install and npm run watch
 
 
 This template should help get you started developing with Vue 3 in Vite.
